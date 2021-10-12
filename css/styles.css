@@ -5,11 +5,23 @@ body {
 }
 
 h1 {
-  color: blue;
+  color: #b01080;
+  font-family: 'Festive', cursive;
+  font-size: 45px;
 }
 
 .container {
   margin: 0 auto;
   width: 65%;
   text-align: left;
+}
+
+#nav-bar {
+  background-color: burlywood;
+  margin: 40px;
+  padding-left: 20px;
+}
+
+p {
+  color: #4287f5;
 }
